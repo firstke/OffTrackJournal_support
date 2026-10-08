@@ -1,8 +1,8 @@
 # OffTrack Journal — Privacy Policy
 
-**Effective date:** [YYYY-MM-DD]
+**Effective date:** 2026-09-25
 **App:** OffTrack Journal (Bundle ID `com.dayback.offplan`)
-**Developer:** [Developer / Company Name]
+**Developer:** GONGFA WU
 
 This Privacy Policy explains what information OffTrack Journal (the "App") handles and how. It is written for the App Store "Privacy Policy URL" requirement and for users who want to understand our data practices.
 
@@ -71,6 +71,6 @@ We will post any changes on this page and update the effective date above.
 
 ## 12. Contact
 
-Questions about privacy: **[support-email]**
+Questions about privacy: **1094772296@qq.com**
 
-Terms of Use: **[terms-url]**
+Terms of Use: **https://www.apple.com/legal/internet-services/itunes/dev/stdeula/**

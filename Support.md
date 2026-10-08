@@ -83,6 +83,6 @@ A: Yes — the App runs on iPhone and is compatible with iPad. Some layouts are 
 
 ## Contact
 
-- **Support:** [support-email]
-- **Privacy Policy:** [privacy-policy-url]
-- **Terms of Use:** [terms-url]
+- **Support:** 1094772296@qq.com
+- **Privacy Policy:** https://github.com/firstke/OffTrackJournal_support/blob/main/Privacy-Policy.md
+- **Terms of Use:** https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
